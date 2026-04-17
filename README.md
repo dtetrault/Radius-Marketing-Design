@@ -23,7 +23,7 @@ Files the skills assume or reference when implementing pages:
 | [`MonaSans-2.0.8/`](MonaSans-2.0.8/) | [Mona Sans](https://github.com/github/mona-sans) family for local builds and `@font-face` usage. See `MonaSans-2.0.8/LICENSE` for font terms. |
 
 **3. Reference marketing page**  
-[`facilitator-radius-style.html`](facilitator-radius-style.html) is a **fully styled static example** (“x402 Facilitator for Radius”) showing the subdomain kit in a real page: sections, nav, tokens, and typography. Use it as a visual and HTML/CSS reference when implementing new marketing pages.
+https://radius-marketing-design.vercel.app/ is a **fully styled static example** (“x402 Facilitator for Radius”) showing the subdomain kit in a real page: sections, nav, tokens, and typography. Use it as a visual and HTML/CSS reference when implementing new marketing pages.
 
 ## Using the skills in Cursor
 
