@@ -35,7 +35,7 @@ Some browsers limit custom fonts over `file://`. From the repository root:
 python3 -m http.server 8080
 ```
 
-Open `http://localhost:8080/facilitator-radius-style.html`.
+Open `http://localhost:8080/radius-ui-kit.html`.
 
 ## Brand snapshot (marketing default)
 
