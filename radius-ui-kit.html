@@ -115,6 +115,12 @@
       padding: var(--radius-page-padding);
     }
 
+    .kit-logo {
+      display: block;
+      width: clamp(160px, 42vw, 240px);
+      height: auto;
+    }
+
     .kit-hero {
       display: flex;
       flex-direction: column;
@@ -511,6 +517,13 @@
 <body>
   <div class="radius-page">
     <header class="kit-hero" id="top">
+      <img
+        class="kit-logo"
+        src="Logo/Logo%20svg/Radius-logo-dark.svg"
+        alt="Radius"
+        width="240"
+        height="64"
+      />
       <h1>Radius UI Kit</h1>
       <p>
         Static reference for the design tokens and component patterns in <code style="font-size:0.95em">SKILL.md</code> (radius-ui-kit).
