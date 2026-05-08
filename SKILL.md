@@ -187,7 +187,7 @@ Design system and component library based on radiustech.xyz — a high-performan
 
 ## Component Patterns
 
-> **Navigation is out of scope for this skill.** The base kit does not define a marketing nav — pages built with this kit should either omit the nav or use the brand-lockup pattern from the `radius-subdomain-page` skill (Section 2). The nav-related tokens (`--radius-bg-nav`, `--radius-border-nav`, `--radius-shadow-nav`) remain in the token set for consumers that reuse them.
+> **Navigation is out of scope for this skill.** The base kit does not define a marketing nav — pages built with this kit should either omit the nav or compose one using Radius tokens (`--radius-bg-nav`, `--radius-border-nav`, `--radius-shadow-nav`, `--radius-rounded-nav`) and the same typography rules as elsewhere in this skill.
 
 ### Buttons
 
